@@ -1,0 +1,9 @@
+welcome=input("enter welcome message")
+print("hello everyone")
+print("your msg is")
+print(welcome)
+msg='hello'
+hello
+how are you?
+i am file
+AGMRCET VARUR
